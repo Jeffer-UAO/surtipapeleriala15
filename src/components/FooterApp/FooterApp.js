@@ -33,7 +33,7 @@ export function FooterApp() {
         />
         <BtnLink
           link={
-            "https://mihogardistribuciones.catalogointeractivo.com.co/admin-dashboard/"
+            "https://surtipapeleriala15.catalogointeractivo.com.co/admin-dashboard/"
           }
           title={"ADMIN"}
           logo={<CiUser size={20} />}
