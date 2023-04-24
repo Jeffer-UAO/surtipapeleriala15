@@ -53,8 +53,8 @@ export function Footer() {
       <div>
         <p className={styles.copyright}>
           SURTIPAPELERIA LA 15 Copyright © 2023. Todos los derechos reservados |
-          Desarrollado por: <br/>
-          Jeffer Quiñones
+          Desarrollado por:  Jeffer Quiñones<br/>
+         Versión 2.6.1
         </p>
       </div>
     </div>
