@@ -55,7 +55,8 @@ export function AboutUs() {
         <h5>Líneas de atención</h5>
         <ul>
           <li>(602) 881 08 92</li>
-          <li>(+57) 310 390 06 66</li>
+          <li>(+57) 312 6840 386</li>
+          <li>(+57) 314 5721 972</li>       
         </ul>
       </div>
 
